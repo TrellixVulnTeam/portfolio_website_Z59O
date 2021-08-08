@@ -76,7 +76,7 @@ h4 {
 #header {
   // Header Home
   &-home {
-    background: url("../dist/img/showcase.jpg") center right/ cover no-repeat;
+    background: $bg-image center right/ cover no-repeat;
     height: 100vh;
     color: #fff;
 
